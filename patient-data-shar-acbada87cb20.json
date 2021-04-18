@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "patient-data-shar",
+  "private_key_id": "acbada87cb20e540e10afa4e82af134e7be62df9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDgx5FyVnj2upQM\nn7QFg+xb2jCZNt6CcIcaU2kJ+4woVCJXisTbUPCqO8ElBQO4cC5uO9LZlcASH7x8\n9/VLTtZZIaELAbfxdVNoYLkBpa/gqzeVNPGPwnM+grl0meNyr94fDKRLA3curF7i\nG49rwM1T5A7LfuX10FKTtQ/z6H9JrZ33Uuz1KC42sfJJ784TEv0mV8HOEwH+QEDZ\n5/BP82mDuhMKiwzJyELTpX+aHhZ9xPz6G2Ha80srMx18197AXqg9DXPRLAi2CWSQ\nTFHvau24wESziOp5nbfjaFqT687DBb1igoqc11jhPvLQfqDnpHy0u1ihvTpc//4A\nmMWYaqjZAgMBAAECggEABO3gxCZI98wmo/zlPeZjNVkcY2Jp0GghplOkRDTxIWSa\n7jAxBJ2KnDO8QWYR61EBIPy3MSX7X3UKX/PbZrU0tnaqKUDL5QPNekaot/Rcs4C9\nsswa7Kv3IAH43tQ4bH2WfDgoQCw0HbYSTJi4dUSgnBGDu4sDBaLLCh8t2YuZ2FE9\nAEa+bAU59rnAJ2sHWOAgZWkFWF2dG/Rl1pcmTr65XdllDR1WdOCToW5Un5wIETJ+\n9Es77bq3WzFnG1QDNJ3hEVEm+5lnsWBEgkOXZAdW/gWwlHwT2QPrBpyM9fRaab/U\nLTQCC/o/2J/W4Fx7BjQ3qsu06aaEV/ersTmf8tqjiQKBgQD0NByY9iXCHsXRbbQN\n3Lv9RimkSvJXGVRiV4/d/0j1vajUrmd9kZlsv2d0jNxXZ92Flufr37n4XKH0yCxQ\nqQzzbLiF4LSHUNqQkZH+k89rIRHSZHzREpESmKLSz2dfH+2OjpyQ67NLn+eNKnm5\nw8rzzxe9r25fHCaHZHpvhvHDnQKBgQDro0ECmpP8S/yY1E3ImfKqOBnpXtssHTVp\n5YiwZJxNBIs4Ra9RbhcsaRkDMfQNEKNdW908oWvlipg7EjnBOHcy+5PnXPeHEzEL\np4u/SD1OZVPo0nK7IF/LaAAuWKoD2eo1l0Wsvj1oNlLiZEGEPvikHl2fg6S+udNg\n5ZHSSWsrbQKBgQCOumZ8gGFRM+sqnJPABmNZhMiR3bwGbCeF0uejOLHL7y3eIJEc\nMx0ZEkXFOQ8PhwVSLwEeO4TWRE3kY5qDCksne0Pd+5eH/xm/pVVPFdUFKC7iaRkK\nmW9xDwUbcV1Zm6+cwn1/tkL00GDlgQ3kJStZlJCrrP01WZ6rQ27MAHMNgQKBgHe8\nr045ajVsD2FBkHz87XhdpZ0WnFygQwIapwirN1lTk8L2dg302UWx6gnbml4BNGI+\nSf+DLyam9JAfxMVQghGgERoh/Y3fzK5VZwe+F5j8mFTYi4BXBRaBNIZYe5wVYZP1\n2GvdB6sq35c2xqwCq6oJ3B0wcciQ+L5mKWEn+ZNJAoGBAIqeErcLe1oeC8HRUWOl\nIOiu0gBwkebiKG55sokyoTY6mwdBsumHaL/NzYw83Le2nyXGWS0WpOJwvmW/OaDb\njvLDf5Db0A4vr6Wy8TGuEKXPe2pJl5HwNkrXC2B2kxAO7OaUJWi1Bs1D7xybiH7R\nILFDYcqX22mUha5n17rU0raD\n-----END PRIVATE KEY-----\n",
+  "client_email": "patient-data-shar@appspot.gserviceaccount.com",
+  "client_id": "104633107473129570208",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/patient-data-shar%40appspot.gserviceaccount.com"
+}
